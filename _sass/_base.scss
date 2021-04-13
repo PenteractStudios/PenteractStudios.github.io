@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-@font-face {
-  font-family: "myFirstFont";
-  src: url("deathrattlebb_reg.tff") format("truetype");
+@font-face{
+    font-family:"deathrattle-bb-regular";
+    src:url("https://dafonttop.com/wp-data/d/975/1975/file/deathrattle-bb.regular.ttf") format("woff"),
+    url("https://dafonttop.com/wp-data/d/975/1975/file/deathrattle-bb.regular.ttf") format("opentype"),
+    url("https://dafonttop.com/wp-data/d/975/1975/file/deathrattle-bb.regular.ttf") format("truetype");
 }
 body {
     margin: 0;
@@ -10,7 +12,7 @@ body {
     font-size: 100%;
     line-height: 1.5;
     color: #555;
-    font-family: "myFirstFont";
+    font-family:"deathrattle-bb-regular";
 }
 article, aside, figcaption, figure, footer, header, nav, section {
     display: block;
