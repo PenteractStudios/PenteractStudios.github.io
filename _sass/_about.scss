@@ -1,4 +1,9 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(../fonts/deathrattlebb_reg.tff);
+}
 #about {
+  font-family: myFirstFont;
   width: 90%;
   margin: 0 auto;
   max-width: 960px;
