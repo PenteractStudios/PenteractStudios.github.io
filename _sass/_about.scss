@@ -1,4 +1,7 @@
-
+@font-face {
+  font-family: myFirstFont;
+  src: url(deathrattlebb_reg.tff);
+}
 #about {
   width: 90%;
   margin: 0 auto;
@@ -29,8 +32,6 @@
 }
 
 .user-details {
-  color: red;
-    font-family: sans-serif;
   text-align: center;
   margin: 5px auto;
 }
