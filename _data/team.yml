@@ -10,10 +10,12 @@
 
 - name: Jaume
   lastName: Bea Pérez-Zubizarreta
-  imageUrl: /assets/cvimg/JaimeB.jpg
+  imageUrl: /assets/cvimg/JaimeB.png
   links:
     - type: linkedin
       url: https://www.linkedin.com/in/jaime-bea-p%C3%A9rez-zubizarreta-0426a0182
+    - type: github
+      url: https://github.com/JaimeBea
 
 - name: Miguel Ángel
   lastName: Bueno Rivera
@@ -124,6 +126,8 @@
   links:
     - type: linkedin
       url: https://www.linkedin.com/in/jcsanchezg
+    - type: github
+      url: https://github.com/jcarlos0305
 
 - name: Telm Francesc
   lastName: Serra Malagrava
