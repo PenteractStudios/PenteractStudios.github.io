@@ -3,24 +3,17 @@
   imageUrl: /assets/cvimg/Laura.jpg
   links:
     - type: linkedin
-      url: https://www.linkedin.com/in/laura-avi%C3%B1%C3%B3/
+      url: https://www.linkedin.com/in/laura-avi%C3%B1%C3%B3
 
     - type: user
       url: http://lauraavino.com/
 
-- name: Yago
-  lastName: Boixeda Martínez
-  imageUrl: /assets/cvimg/Laura.jpg
-  links:
-    - type: linkedin
-      url: https://www.linkedin.com/in/laura-avi%C3%B1%C3%B3/
-
 - name: Jaume
   lastName: Bea Pérez-Zubizarreta
-  imageUrl: /assets/cvimg/Laura.jpg
+  imageUrl: /assets/cvimg/JaimeB.jpg
   links:
     - type: linkedin
-      url: https://www.linkedin.com/in/laura-avi%C3%B1%C3%B3/
+      url: https://www.linkedin.com/in/jaime-bea-p%C3%A9rez-zubizarreta-0426a0182
 
 - name: Miguel Ángel
   lastName: Bueno Rivera
@@ -113,10 +106,10 @@
 
 - name: Pol
   lastName: Pérez Granero
-  imageUrl: /assets/cvimg/Lowy.jpg
+  imageUrl: /assets/cvimg/Pol.jpeg
   links:
     - type: linkedin
-      url: https://www.linkedin.com/in/Lowy-sole-franquesa
+      url: https://www.linkedin.com/in/pol-p%C3%A9rez-granero-109818186
 
 - name: Francesc
   lastName: Porta Solsona
@@ -166,3 +159,8 @@
   links:
     - type: linkedin
       url: https://www.linkedin.com/in/joan-marc-bard%C3%A9s-vera-b04b64100
+
+- name: Yago
+  lastName: Boixeda Martínez
+  imageUrl: /assets/cvimg/default.png
+  links:
