@@ -133,6 +133,8 @@
   lastName: Serra Malagrava
   imageUrl: /assets/cvimg/Telm.jpg
   links:
+    - type: linkedin
+      url: https://www.linkedin.com/in/telm-serra-03b500a8/
     - type: github
       url: https://github.com/telmiuse
 
