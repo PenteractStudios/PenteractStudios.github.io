@@ -20,8 +20,9 @@
 - name: Yago
   lastName: Boixeda Martínez
   imageUrl: /assets/cvimg/Yago.jpg
+  links:
   - type: linkedin
-      url: https://www.linkedin.com/in/yago-boixeda/
+    url: https://www.linkedin.com/in/yago-boixeda/
 
 - name: Miguel Ángel
   lastName: Bueno Rivera
