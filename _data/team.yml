@@ -17,6 +17,12 @@
     - type: github
       url: https://github.com/JaimeBea
 
+- name: Yago
+  lastName: Boixeda Martínez
+  imageUrl: /assets/cvimg/Yago.png
+  - type: linkedin
+      url: https://www.linkedin.com/in/yago-boixeda/
+
 - name: Miguel Ángel
   lastName: Bueno Rivera
   imageUrl: /assets/cvimg/Miguel.jpg
@@ -168,7 +174,4 @@
     - type: linkedin
       url: https://www.linkedin.com/in/joan-marc-bard%C3%A9s-vera-b04b64100
 
-- name: Yago
-  lastName: Boixeda Martínez
-  imageUrl: /assets/cvimg/default.png
-  links:
+
