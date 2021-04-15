@@ -21,6 +21,8 @@
   lastName: Bueno Rivera
   imageUrl: /assets/cvimg/Miguel.jpg
   links:
+    - type: linkedin
+      url: https://www.linkedin.com/in/miguel-%C3%A1ngel-bueno-rivera/
     - type: github
       url: https://github.com/magalenyo
 
