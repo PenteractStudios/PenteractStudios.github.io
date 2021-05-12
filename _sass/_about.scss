@@ -11,12 +11,21 @@
   &__hero {
     display: flex;
     flex-direction: column;
+
+    img {
+      margin: 4rem 0 2rem;
+    }
+
+    p {
+      margin: 2rem 0 4rem;
+    }
   }
 
   &__ctas {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 4rem;
   }
 
   &__cta-button {
